@@ -1,6 +1,7 @@
 Temp/
 Library/
 Assets/Prefabs/
+obj/Debug/
 *.meta
 *.asset
 *.png
@@ -8,3 +9,8 @@ Assets/Prefabs/
 *.csproj
 *.log
 *.cache
+*.json
+*.txt
+*.unity
+*.config
+*.sln
