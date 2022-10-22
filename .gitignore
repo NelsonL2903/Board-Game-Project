@@ -1,2 +1,10 @@
 Temp/
 Library/
+Assets/Prefabs/
+*.meta
+*.asset
+*.png
+*.dwlt
+*.csproj
+*.log
+*.cache
